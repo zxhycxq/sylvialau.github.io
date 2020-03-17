@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sylvialau.github.io/</id>
-    <title>Gridea</title>
-    <updated>2020-03-17T17:27:31.698Z</updated>
+    <title>Heal On My Hill</title>
+    <updated>2020-03-17T17:29:19.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sylvialau.github.io/"/>
     <link rel="self" href="https://sylvialau.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>我要将你拯救，逃离人类荒谬。</subtitle>
     <logo>https://sylvialau.github.io/images/avatar.png</logo>
     <icon>https://sylvialau.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, Heal On My Hill</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://sylvialau.github.io/post/hello-gridea/</id>
