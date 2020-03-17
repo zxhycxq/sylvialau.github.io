@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sylvialau.github.io/</id>
     <title>Heal On My Hill</title>
-    <updated>2020-03-17T17:29:19.169Z</updated>
+    <updated>2020-03-17T17:30:27.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sylvialau.github.io/"/>
     <link rel="self" href="https://sylvialau.github.io/atom.xml"/>
-    <subtitle>我要将你拯救，逃离人类荒谬。</subtitle>
+    <subtitle>我要将你拯救 逃离人类荒谬</subtitle>
     <logo>https://sylvialau.github.io/images/avatar.png</logo>
     <icon>https://sylvialau.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Heal On My Hill</rights>
